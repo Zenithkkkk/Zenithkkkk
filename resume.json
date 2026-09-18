@@ -45,8 +45,8 @@
   ],
 
   "aboutme": {
-    "aboutme_desc": "Computer Science undergraduate with a solid foundation in programming and algorithms and international study experience at DHBW Karlsruhe. AI model evaluation experience strengthened my interest in machine learning and LLMs; I am currently building my Python foundation for systematic study in these areas."
-  },
+  "aboutme_desc": "Computer Science undergraduate at Jinan University with a solid foundation in programming, algorithmic problem solving, and software development. My early algorithm training in the university ACM team and subsequent programming experience strengthened my problem-solving skills, while my exchange semester at DHBW Karlsruhe broadened my academic perspective through English-taught coursework in algorithms, databases, web engineering, and AI. Since 2025, my work evaluating AI-generated reasoning and code has given me extensive exposure to the capabilities and limitations of current AI systems and gradually developed my interest in machine learning and large language models. I am currently strengthening my Python foundation and plan to systematically study machine learning, deep learning, and LLM-related technologies. Through the mentorship program, I hope to gain research experience, develop stronger experimental and academic skills, and explore how large language models can be applied to real-world problems."
+    },
 
   "skillList": [
     {
