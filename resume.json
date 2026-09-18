@@ -45,7 +45,7 @@
   ],
 
   "aboutme": {
-    "aboutme_desc": "Computer Science undergraduate with a solid foundation in programming and algorithmic problem solving, complemented by international study at DHBW Karlsruhe. Experience evaluating AI-generated reasoning and code strengthened my interest in machine learning and large language models. I am currently strengthening my Python foundation toward systematic study of ML and LLM-related technologies."
+    "aboutme_desc": "Computer Science undergraduate with a solid foundation in programming and algorithms and international study experience at DHBW Karlsruhe. AI model evaluation experience strengthened my interest in machine learning and LLMs; I am currently building my Python foundation for systematic study in these areas."
   },
 
   "skillList": [
@@ -89,14 +89,14 @@
       "project_role": "Independent Web Project",
       "project_time": "2025 - Present",
       "project_desc": "Multilingual recipe-sharing platform | Node.js, Express, EJS, MongoDB | GitHub: https://github.com/Zenithkkkk/CookingHubb | Live Demo: http://8.148.229.49",
-      "project_content": "• Conceived the product, architecture, core features, workflows, and UX independently; used Cursor and Codex extensively for AI-assisted implementation and debugging.\n• Designed My Fridge ingredient-based recipe discovery, search/filtering workflows, and multilingual translation features using Google Translate API.\n• Deployed the application on an Aliyun cloud server behind Nginx."
+      "project_content": "• Conceived the product, architecture, features, and UX; used Cursor and Codex extensively for AI-assisted development.\n• Designed My Fridge ingredient-based recipe discovery, search/filtering, and multilingual translation using Google Translate API.\n• Deployed the application on an Aliyun cloud server behind Nginx."
     },
     {
       "project_name": "Algorithm Training & Honors",
       "project_role": "University ACM Team",
       "project_time": "2024",
-      "project_desc": "Approximately three months of systematic competitive-programming training in C++.",
-      "project_content": "• Trained in data structures, DFS/BFS, dynamic programming, greedy algorithms, binary search, and graph algorithms, with extensive practice on Luogu and experience with Codeforces.\n• Provincial Second Prize — Blue Bridge Cup, C/C++ Programming, University Group A (2024).\n• Second-Class Scholarship for Hong Kong, Macao and Taiwan Students — Jinan University (2025)."
+      "project_desc": "~3 months of systematic competitive-programming training in C++.",
+      "project_content": "• Trained in data structures, DFS/BFS, dynamic programming, greedy algorithms, binary search, and graph algorithms; practiced extensively on Luogu and Codeforces.\n• Provincial Second Prize — Blue Bridge Cup, C/C++ Programming, University Group A (2024).\n• Second-Class Scholarship for Hong Kong, Macao and Taiwan Students — Jinan University (2025)."
     }
   ],
 
