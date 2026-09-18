@@ -14,7 +14,7 @@
     "shape": "circle"
   },
   "profile": {
-    "name": "MAN CHEUNG LIU 刘文翔",
+    "name": "MAN CHEUNG LIU (刘文翔)",
     "email": "18927342698@163.com",
     "mobile": "+86 189 2734 2698",
     "github": "https://github.com/Zenithkkkk",
@@ -22,21 +22,15 @@
   },
   "educationList": [
     {
-      "edu_time": [
-        "2024.09",
-        "2028.06"
-      ],
+      "edu_time": ["2024.09", "2028.06"],
       "school": "Jinan University — International School",
       "major": "Computer Science and Technology | GPA: 3.53/5.0 (Sophomore Fall) | Top 10% in Major",
       "academic_degree": "B.Eng. (Expected)"
     },
     {
-      "edu_time": [
-        "2026.02",
-        "2026.07"
-      ],
+      "edu_time": ["2026.02", "2026.07"],
       "school": "DHBW Karlsruhe",
-      "major": "Computer Science Exchange | 23 ECTS | Algorithms: 1.0 (Very Good/A) | Database Concepts: 1.3 (Very Good/A) | Coursework: Hands-on AI – from Machine Learning to Chatbots",
+      "major": "Computer Science Exchange | 23 ECTS | Algorithms: 1.0 (A) | Database Concepts: 1.3 (A) | Hands-on AI – from Machine Learning to Chatbots",
       "academic_degree": "Exchange Student"
     }
   ],
@@ -44,11 +38,8 @@
     {
       "company_name": "DataAnnotation Platform",
       "department_name": "AI Model & Coding Evaluator — Remote",
-      "work_time": [
-        "2025.06",
-        "Present"
-      ],
-      "work_desc": "• Evaluated AI-generated responses across reasoning and coding tasks, identifying factual, logical, and implementation errors.\n• Designed evaluation rubrics and adversarial prompts to expose model weaknesses and systematically assess response quality.\n• Reviewed AI-generated code and repository-level solutions using Docker-based environments, evaluating modifications against task requirements."
+      "work_time": ["2025.06", "Present"],
+      "work_desc": "• Evaluated AI-generated reasoning and code, identifying factual, logical, and implementation errors.\n• Designed evaluation rubrics and adversarial prompts to expose model weaknesses and assess response quality.\n• Evaluated AI-generated repository modifications in Docker-based environments against task requirements."
     }
   ],
   "skillList": [
@@ -58,15 +49,11 @@
     },
     {
       "skill_name": "Currently Learning",
-      "skill_desc": "Python (fundamentals completed; progressing toward NumPy, Pandas, and machine learning)"
+      "skill_desc": "Python; progressing toward NumPy, Pandas, and machine learning"
     },
     {
-      "skill_name": "Frameworks & Web",
-      "skill_desc": "Spring Boot, MyBatis, Vue.js, Node.js, Express, EJS"
-    },
-    {
-      "skill_name": "Databases",
-      "skill_desc": "MySQL, MongoDB"
+      "skill_name": "Web & Databases",
+      "skill_desc": "Spring Boot, MyBatis, Vue.js, Node.js, Express, EJS, MySQL, MongoDB"
     },
     {
       "skill_name": "Tools",
@@ -74,7 +61,7 @@
     },
     {
       "skill_name": "Languages",
-      "skill_desc": "Chinese (Native); English (Advanced working proficiency; semester-long English-taught study in Germany)"
+      "skill_desc": "Chinese (Native); English (Working proficiency; semester-long English-taught study in Germany)"
     }
   ],
   "projectList": [
@@ -82,17 +69,17 @@
       "project_name": "Smart CookingHub",
       "project_role": "Independent Web Project",
       "project_time": "2025 - Present",
-      "project_desc": "Multilingual recipe-sharing web platform | Node.js, Express, EJS, MongoDB | GitHub: https://github.com/Zenithkkkk/CookingHubb",
-      "project_content": "• Conceived the product, overall architecture, core features, workflows, and user experience independently.\n• Used Cursor and Codex extensively for AI-assisted implementation, debugging, and iterative development.\n• Designed ingredient-based recipe discovery (My Fridge), search/filtering workflows, and multilingual translation features.\n• Deployed the application on an Aliyun cloud server behind Nginx."
+      "project_desc": "Multilingual recipe-sharing platform | Node.js, Express, EJS, MongoDB | GitHub: https://github.com/Zenithkkkk/CookingHubb",
+      "project_content": "• Conceived the product, architecture, core features, workflows, and UX independently; used Cursor and Codex extensively for AI-assisted implementation and debugging.\n• Designed My Fridge ingredient-based recipe discovery, search/filtering workflows, and multilingual translation features.\n• Deployed the application on an Aliyun cloud server behind Nginx."
     }
   ],
   "awardList": [
     {
-      "award_info": "University ACM Team — Completed approximately three months of systematic competitive-programming training in C++, covering data structures, DFS/BFS, dynamic programming, greedy algorithms, binary search, and graph algorithms; practiced extensively on Luogu and gained experience with Codeforces contests.",
+      "award_info": "University ACM Team — ~3 months of systematic C++ algorithm training in data structures, DFS/BFS, dynamic programming, greedy algorithms, binary search, and graph algorithms; extensive practice on Luogu and experience with Codeforces.",
       "award_time": "2024"
     },
     {
-      "award_info": "Provincial Second Prize — Blue Bridge Cup National Software and Information Technology Professionals Competition, C/C++ Programming, University Group A",
+      "award_info": "Provincial Second Prize — Blue Bridge Cup, C/C++ Programming, University Group A",
       "award_time": "2024"
     },
     {
@@ -102,7 +89,7 @@
   ],
   "workList": [],
   "aboutme": {
-    "aboutme_desc": "Computer Science undergraduate with a solid foundation in programming and algorithmic problem solving, complemented by international academic experience at DHBW Karlsruhe. My experience evaluating AI-generated reasoning and code has strengthened my interest in machine learning and large language models. I am currently building my Python foundation and preparing for further study in ML and LLM-related technologies."
+    "aboutme_desc": "Computer Science undergraduate with a solid foundation in programming and algorithms, complemented by international study at DHBW Karlsruhe. Experience in evaluating AI-generated reasoning and code strengthened my interest in ML and LLMs; I am currently strengthening my Python foundation toward systematic study in these areas."
   },
   "theme": {
     "color": "#2f5785",
