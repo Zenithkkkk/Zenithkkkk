@@ -1,7 +1,7 @@
 {
   "titleNameMap": {
     "educationList": "EDUCATION",
-    "workExpList": "AI MODEL EVALUATION EXPERIENCE",
+    "workExpList": "AI EXPERIENCE",
     "projectList": "PROJECTS",
     "skillList": "TECHNICAL SKILLS",
     "awardList": "HONORS & AWARDS",
@@ -11,15 +11,14 @@
   "avatar": {
     "src": "https://raw.githubusercontent.com/Zenithkkkk/Zenithkkkk/main/avatar.jpg",
     "hidden": false,
-    "shape": "square"
+    "shape": "circle"
   },
   "profile": {
     "name": "MAN CHEUNG LIU",
     "email": "18927342698@163.com",
     "mobile": "+86 189 2734 2698",
     "github": "https://github.com/Zenithkkkk",
-    "zhihu": "",
-    "workExpYear": "Computer Science Undergraduate"
+    "zhihu": ""
   },
   "educationList": [
     {
@@ -28,7 +27,7 @@
         "2028.06"
       ],
       "school": "Jinan University — International School",
-      "major": "Computer Science and Technology | GPA: 3.53/5.0 | Top 10% in Major",
+      "major": "Computer Science and Technology | GPA: 3.53/5.0 (Sophomore Fall) | Top 10% in Major",
       "academic_degree": "B.Eng. (Expected)"
     },
     {
@@ -37,7 +36,7 @@
         "2026.07"
       ],
       "school": "DHBW Karlsruhe",
-      "major": "Computer Science Exchange | 23 ECTS | Algorithms: 1.0 (Very Good/A) | Database Concepts: 1.3 (Very Good/A)",
+      "major": "Computer Science Exchange | 23 ECTS | Algorithms: 1.0 (Very Good/A) | Database Concepts: 1.3 (Very Good/A) | Coursework: Hands-on AI – from Machine Learning to Chatbots",
       "academic_degree": "Exchange Student"
     }
   ],
@@ -47,9 +46,9 @@
       "department_name": "AI Model & Coding Evaluator — Remote",
       "work_time": [
         "2025.06",
-        null
+        "Present"
       ],
-      "work_desc": "• Evaluated AI-generated responses across reasoning and coding tasks, identifying factual, logical, and implementation errors and proposing targeted improvements.\n• Designed evaluation rubrics and adversarial prompts to expose model weaknesses and systematically assess response quality.\n• Reviewed and refined AI-generated solutions for coding and repository-level software engineering tasks.\n• Used Docker-based environments to run AI models/agents on repository tasks and evaluate their code modifications against task requirements."
+      "work_desc": "• Evaluated AI-generated responses across reasoning and coding tasks, identifying factual, logical, and implementation errors.\n• Designed evaluation rubrics and adversarial prompts to expose model weaknesses and systematically assess response quality.\n• Reviewed AI-generated code and repository-level solutions using Docker-based environments, evaluating modifications against task requirements."
     }
   ],
   "skillList": [
@@ -71,7 +70,7 @@
     },
     {
       "skill_name": "Languages",
-      "skill_desc": "Chinese (Native); English (Advanced working proficiency; semester-long English-taught study experience in Germany)"
+      "skill_desc": "Chinese (Native); English (Advanced working proficiency; semester-long English-taught study in Germany)"
     }
   ],
   "projectList": [
@@ -79,8 +78,8 @@
       "project_name": "Smart CookingHub",
       "project_role": "Independent Web Project",
       "project_time": "2025 - Present",
-      "project_desc": "A multilingual recipe-sharing platform independently conceived and designed. Tech: Node.js, Express, EJS, MongoDB, JavaScript, Google Translate API, Nginx, Aliyun. GitHub: https://github.com/Zenithkkkk/CookingHubb | Live Demo: http://8.148.229.49",
-      "project_content": "• Defined the overall architecture, core features, workflows, and user experience, using Cursor and Codex extensively for AI-assisted implementation, debugging, and iteration.\n• Designed an illustration-driven, cloud-and-comic-inspired homepage with a distinctive visual identity.\n• Designed search and filtering logic for discovering recipes based on user queries and structured recipe information.\n• Designed the My Fridge workflow to recommend suitable recipes based on users' available ingredients.\n• Integrated Google Translate API for multilingual content and on-demand comment translation.\n• Deployed the application on an Aliyun cloud server with Nginx reverse proxying."
+      "project_desc": "Multilingual recipe-sharing platform | Node.js, Express, EJS, MongoDB, JavaScript, Google Translate API, Nginx, Aliyun | GitHub: https://github.com/Zenithkkkk/CookingHubb",
+      "project_content": "• Conceived the product, overall architecture, core features, workflows, and UX, using Cursor and Codex extensively for AI-assisted implementation, debugging, and iteration.\n• Designed the My Fridge ingredient-based recipe discovery workflow and recipe search/filtering logic.\n• Integrated Google Translate API for multilingual content and on-demand comment translation.\n• Designed a cloud-and-comic-inspired homepage and deployed the application on an Aliyun cloud server behind Nginx."
     }
   ],
   "awardList": [
@@ -95,7 +94,7 @@
   ],
   "workList": [],
   "aboutme": {
-    "aboutme_desc": "Research Interests: Machine Learning, Large Language Models, and AI Application Development.\n\nRelevant DHBW coursework: Hands-on AI – from Machine Learning to Chatbots, Web Engineering, and Software Engineering II."
+    "aboutme_desc": "Machine Learning · Large Language Models · AI Application Development"
   },
   "theme": {
     "color": "#2f5785",
