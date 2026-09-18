@@ -4,9 +4,9 @@
     "workExpList": "AI EXPERIENCE",
     "projectList": "PROJECTS",
     "skillList": "TECHNICAL SKILLS",
-    "awardList": "HONORS & AWARDS",
+    "awardList": "ALGORITHM TRAINING & HONORS",
     "workList": "ADDITIONAL",
-    "aboutme": "RESEARCH INTERESTS"
+    "aboutme": "PROFILE"
   },
   "avatar": {
     "src": "https://raw.githubusercontent.com/Zenithkkkk/Zenithkkkk/main/avatar.jpg",
@@ -54,7 +54,11 @@
   "skillList": [
     {
       "skill_name": "Programming",
-      "skill_desc": "Python, Java, C++, JavaScript, HTML/CSS"
+      "skill_desc": "Java, C++, JavaScript, HTML/CSS"
+    },
+    {
+      "skill_name": "Currently Learning",
+      "skill_desc": "Python (fundamentals completed; progressing toward NumPy, Pandas, and machine learning)"
     },
     {
       "skill_name": "Frameworks & Web",
@@ -65,7 +69,7 @@
       "skill_desc": "MySQL, MongoDB"
     },
     {
-      "skill_name": "Tools & Infrastructure",
+      "skill_name": "Tools",
       "skill_desc": "Git, GitHub, Maven, Docker, Linux, Nginx, Aliyun, Cursor, Codex"
     },
     {
@@ -78,23 +82,27 @@
       "project_name": "Smart CookingHub",
       "project_role": "Independent Web Project",
       "project_time": "2025 - Present",
-      "project_desc": "Multilingual recipe-sharing platform | Node.js, Express, EJS, MongoDB, JavaScript, Google Translate API, Nginx, Aliyun | GitHub: https://github.com/Zenithkkkk/CookingHubb",
-      "project_content": "• Conceived the product, overall architecture, core features, workflows, and UX, using Cursor and Codex extensively for AI-assisted implementation, debugging, and iteration.\n• Designed the My Fridge ingredient-based recipe discovery workflow and recipe search/filtering logic.\n• Integrated Google Translate API for multilingual content and on-demand comment translation.\n• Designed a cloud-and-comic-inspired homepage and deployed the application on an Aliyun cloud server behind Nginx."
+      "project_desc": "Multilingual recipe-sharing web platform | Node.js, Express, EJS, MongoDB | GitHub: https://github.com/Zenithkkkk/CookingHubb",
+      "project_content": "• Conceived the product, overall architecture, core features, workflows, and user experience independently.\n• Used Cursor and Codex extensively for AI-assisted implementation, debugging, and iterative development.\n• Designed ingredient-based recipe discovery (My Fridge), search/filtering workflows, and multilingual translation features.\n• Deployed the application on an Aliyun cloud server behind Nginx."
     }
   ],
   "awardList": [
     {
-      "award_info": "Second-Class Scholarship for Hong Kong, Macao and Taiwan Students — Jinan University",
-      "award_time": "2025"
+      "award_info": "University ACM Team — Completed approximately three months of systematic competitive-programming training in C++, covering data structures, DFS/BFS, dynamic programming, greedy algorithms, binary search, and graph algorithms; practiced extensively on Luogu and gained experience with Codeforces contests.",
+      "award_time": "2024"
     },
     {
-      "award_info": "Provincial Second Prize — Blue Bridge Cup, C/C++ Programming, University Group A",
+      "award_info": "Provincial Second Prize — Blue Bridge Cup National Software and Information Technology Professionals Competition, C/C++ Programming, University Group A",
       "award_time": "2024"
+    },
+    {
+      "award_info": "Second-Class Scholarship for Hong Kong, Macao and Taiwan Students — Jinan University",
+      "award_time": "2025"
     }
   ],
   "workList": [],
   "aboutme": {
-    "aboutme_desc": "Machine Learning · Large Language Models · AI Application Development"
+    "aboutme_desc": "Computer Science undergraduate with a solid foundation in programming and algorithmic problem solving, complemented by international academic experience at DHBW Karlsruhe. My experience evaluating AI-generated reasoning and code has strengthened my interest in machine learning and large language models. I am currently building my Python foundation and preparing for further study in ML and LLM-related technologies."
   },
   "theme": {
     "color": "#2f5785",
